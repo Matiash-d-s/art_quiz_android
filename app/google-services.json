@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390460363609",
+    "project_id": "quizart-78c6b",
+    "storage_bucket": "quizart-78c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390460363609:android:b47aa963f26cf1edc73248",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390460363609-7h6n7m99s5pf9nc234pdc22u3t0ls3t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYIJ33jvI41XpQcZfn02R7FnuH2W2kCtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390460363609-7h6n7m99s5pf9nc234pdc22u3t0ls3t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

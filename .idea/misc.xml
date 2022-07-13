@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz/app/src/main/res/drawable/empty_bag.xml" value="0.1525" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz/app/src/main/res/drawable/next_btn_shape.xml" value="0.1525" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz/app/src/main/res/drawable/timeout_btn_shape.xml" value="0.1525" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz/app/src/main/res/layout/activity_dash_board.xml" value="0.1" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz/app/src/main/res/layout/activity_main.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz/app/src/main/res/layout/time_out_dialog.xml" value="0.4" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz12/app/src/main/res/drawable/share_btn.xml" value="0.124" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz12/app/src/main/res/layout/activity_dash_board.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz12/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz12/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz12/app/src/main/res/layout/activity_register.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/ArtQuiz12/app/src/main/res/layout/activity_won.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/79080/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/Users/m1910814/AndroidStudioProjects/ArtQuiz12/app/src/main/res/layout/activity_dash_board.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/m1910814/AndroidStudioProjects/ArtQuiz12/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/ArtQuiz12/app/src/main/res/layout/activity_dash_board.xml" value="0.10099637681159421" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/ArtQuiz12/app/src/main/res/layout/activity_main.xml" value="0.10099637681159421" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/ArtQuiz12/app/src/main/res/layout/activity_won.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
